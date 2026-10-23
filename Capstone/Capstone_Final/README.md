@@ -126,6 +126,6 @@ Modeling:
 3. Try other neural networks. Deeper networks built in Keras or PyTorch, with tuned learning rates, dropout and embeddings for the categorical variables, could test whether the small network here left anything out. Since all the models performed similarly, the main purpose is to confirm the result rather than to expect large gains.
 
 ## Outline of project
-- [Capstone_Project_Final_v2.ipynb](Capstone_Project_Final_v2.ipynb) — data cleaning, exploratory analysis, modeling and findings
+- [Capstone_Project_Final_v2.ipynb](Capstone_Project_Final.ipynb) — data cleaning, exploratory analysis, modeling and findings
 
 
